@@ -1,4 +1,4 @@
-!pip install plotly
+# pip install plotly
 # import all the library
 import pandas as pd
 import plotly.express as px
